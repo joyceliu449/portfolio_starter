@@ -14,7 +14,15 @@ h1 {
 a{
   color: gray;
 }
+img{
+  width:100px;
+  padding:30px;
+}
 
+.project{
+  display:flex;
+  justify-content:left;
+}
 /* colors: 
 #AFBED1 gray blue
 #7FBEEB blue blue
